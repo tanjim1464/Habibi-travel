@@ -95,8 +95,10 @@ nav li a {
 
 .first {
     background: #FFF;
-    width: 1440px;
-    height: 6940px;
+    width: 1200px;
+    height: 600px;
+    padding: 135px;
+
 }
 
 .our {
@@ -125,10 +127,149 @@ nav li a {
     width: 174px;
     height: 52px;
     flex-shrink: 0;
+    color: #FFFFFF;
 }
 
 .popular {
     width: 540px;
     height: 550px;
     flex-shrink: 0;
+    padding-left: 20px;
+    padding-right: 135px;
+
+}
+
+.desti {
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.choose p {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+}
+
+.seven {
+    flex-wrap: wrap;
+    display: flex;
+
+
+
+}
+
+.maldives {
+    padding-left: 100px;
+
+}
+
+.america {
+    padding-left: 100px;
+}
+
+.bangla {
+    padding-left: 100px;
+}
+
+.middle {
+    width: 1200px;
+    height: 600px;
+}
+
+.news {
+    display: flex;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-top: 100px;
+    padding-left: 135px;
+}
+
+.letter {
+    color: #131318;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.id {
+    width: 393px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+}
+
+.subs {
+    color: #FFF;
+    width: 393px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FF5400;
+    cursor: pointer;
+
+}
+
+.hlw {
+    width: 672px;
+    height: 422px;
+    flex-shrink: 0;
+    padding-left: 20px;
+    padding-right: 135px;
+
+}
+
+.hero {
+    color: var(--Dark-01, #131318);
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+}
+
+.trav {
+    color: #FF5400;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.foot {
+    color: #5A5A5D;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.icon {
+    text-align: center;
+    padding: 10px 0;
+   
+}
+
+.line {
+    width: 1320px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.05);
+}
+.copy{
+    text-align: center;
 }
